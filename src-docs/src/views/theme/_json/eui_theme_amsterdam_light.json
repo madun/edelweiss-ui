@@ -31,7 +31,7 @@
   "euiBreadcrumbSpacing": "8px",
   "euiBreadcrumbTruncateWidth": "160px",
   "euiButtonEmptyTypes": {
-    "primary": "#0071c2",
+    "primary": "#007cab",
     "danger": "#bd271e",
     "disabled": "#abb4c4",
     "ghost": "#ffffff",
@@ -40,7 +40,7 @@
     "warning": "#8a6a0a"
   },
   "euiCallOutTypes": {
-    "primary": "#0077cc",
+    "primary": "#00a0dc",
     "success": "#00bfb3",
     "warning": "#fec514",
     "danger": "#bd271e"
@@ -49,14 +49,14 @@
   "euiCardBottomNodeHeight": "40px",
   "euiCardSelectButtonBorders": {
     "text": "#00bfb3",
-    "primary": "#0077cc",
+    "primary": "#00a0dc",
     "success": "#00bfb3",
     "danger": "#bd271e",
     "ghost": "#69707d"
   },
   "euiCardSelectButtonBackgrounds": {
     "text": "#f5f7fa",
-    "primary": "#e6f1fa",
+    "primary": "#e6f6fc",
     "success": "#e6f9f7",
     "danger": "#f8e9e9",
     "ghost": "#69707d"
@@ -75,7 +75,7 @@
   },
   "euiCollapsibleNavGroupLightBackgroundColor": "#fafbfd",
   "euiCollapsibleNavGroupDarkBackgroundColor": "#2a2c34",
-  "euiCollapsibleNavGroupDarkHighContrastColor": "#0d7ecf",
+  "euiCollapsibleNavGroupDarkHighContrastColor": "#00a0dc",
   "euiColorPickerValueRange0": "#ffffff",
   "euiColorPickerValueRange1": "rgba(255, 255, 255, 0)",
   "euiColorPickerSaturationRange0": "#000000",
@@ -117,7 +117,7 @@
   },
   "euiExpressionColors": {
     "subdued": "#69707d",
-    "primary": "#0071c2",
+    "primary": "#007cab",
     "success": "#007e77",
     "warning": "#8a6a0a",
     "danger": "#bd271e",
@@ -180,7 +180,7 @@
   },
   "euiFilePickerTallHeight": "128px",
   "euiRangeLevelColors": {
-    "primary": "#0077cc",
+    "primary": "#00a0dc",
     "success": "#00bfb3",
     "warning": "#fec514",
     "danger": "#bd271e"
@@ -210,7 +210,7 @@
     "accent": "#f04e98",
     "danger": "#bd271e",
     "ghost": "#ffffff",
-    "primary": "#0077cc",
+    "primary": "#0098d1",
     "success": "#00a39a",
     "subdued": "#69707d",
     "text": "#343741",
@@ -228,7 +228,7 @@
   "euiKeyPadMenuMarginSize": "4px",
   "euiLinkColors": {
     "subdued": "#69707d",
-    "primary": "#0071c2",
+    "primary": "#007cab",
     "success": "#007e77",
     "accent": "#c4407c",
     "warning": "#8a6a0a",
@@ -243,7 +243,7 @@
     "gutterMedium": "16px"
   },
   "euiListGroupItemColorTypes": {
-    "primary": "#0071c2",
+    "primary": "#007cab",
     "text": "#343741",
     "subdued": "#69707d",
     "ghost": "#ffffff"
@@ -266,7 +266,7 @@
     "l": "16px"
   },
   "euiProgressColors": {
-    "primary": "#0077cc",
+    "primary": "#00a0dc",
     "success": "#00bfb3",
     "warning": "#fec514",
     "danger": "#bd271e",
@@ -313,7 +313,7 @@
   "euiSideNavEmphasizedBackgroundColor": "rgba(211, 218, 230, 0.30000000000000004)",
   "euiSideNavRootTextcolor": "#1a1c21",
   "euiSideNavBranchTextcolor": "#646a77",
-  "euiSideNavSelectedTextcolor": "#006bb8",
+  "euiSideNavSelectedTextcolor": "#0076a2",
   "euiSideNavDisabledTextcolor": "#a2abba",
   "spacerSizes": {
     "xs": "4px",
@@ -350,11 +350,11 @@
   "euiTableCellCheckboxWidth": "32px",
   "euiTableActionsAreaWidth": "40px",
   "euiTableHoverColor": "#fafbfd",
-  "euiTableSelectedColor": "rgba(227, 240, 249, 0.37)",
-  "euiTableHoverSelectedColor": "rgba(0, 119, 204, 0.09999999999999998)",
+  "euiTableSelectedColor": "rgba(227, 245, 251, 0.37)",
+  "euiTableHoverSelectedColor": "rgba(0, 160, 220, 0.09999999999999998)",
   "euiTableActionsBorderColor": "rgba(152, 162, 179, 0.09999999999999998)",
-  "euiTableHoverClickableColor": "rgba(0, 119, 204, 0.050000000000000044)",
-  "euiTableFocusClickableColor": "rgba(0, 119, 204, 0.09999999999999998)",
+  "euiTableHoverClickableColor": "rgba(0, 160, 220, 0.050000000000000044)",
+  "euiTableFocusClickableColor": "rgba(0, 160, 220, 0.09999999999999998)",
   "euiTextColors": {
     "default": "#343741",
     "subdued": "#69707d",
@@ -368,7 +368,7 @@
   "euiTextConstrainedMaxWidth": "36em",
   "euiToastWidth": "320px",
   "euiToastTypes": {
-    "primary": "#0077cc",
+    "primary": "#00a0dc",
     "success": "#00bfb3",
     "warning": "#fec514",
     "danger": "#bd271e"
@@ -446,7 +446,7 @@
   "euiButtonColorDisabledText": "#abb4c4",
   "euiButtonColorGhostDisabled": "#69707d",
   "euiButtonTypes": {
-    "primary": "#0077cc",
+    "primary": "#00a0dc",
     "accent": "#f04e98",
     "success": "#00bfb3",
     "warning": "#fec514",
@@ -457,7 +457,7 @@
   },
   "euiColorGhost": "#ffffff",
   "euiColorInk": "#000000",
-  "euiColorPrimary": "#0077cc",
+  "euiColorPrimary": "#00a0dc",
   "euiColorAccent": "#f04e98",
   "euiColorSuccess": "#00bfb3",
   "euiColorWarning": "#fec514",
@@ -475,13 +475,13 @@
   "euiTitleColor": "#1a1c21",
   "euiTextSubduedColor": "#69707d",
   "euiColorDisabled": "#abb4c4",
-  "euiColorPrimaryText": "#0071c2",
+  "euiColorPrimaryText": "#007cab",
   "euiColorAccentText": "#c4407c",
   "euiColorSuccessText": "#007e77",
   "euiColorWarningText": "#8a6a0a",
   "euiColorDangerText": "#bd271e",
   "euiColorDisabledText": "#abb4c4",
-  "euiLinkColor": "#0071c2",
+  "euiLinkColor": "#007cab",
   "euiPaletteColorBlind": {
     "euiColorVis0": {
       "graphic": "#54b399",
@@ -599,9 +599,9 @@
   "euiFormBackgroundColor": "#fbfcfd",
   "euiFormBackgroundDisabledColor": "#eef2f7",
   "euiFormBackgroundReadOnlyColor": "#ffffff",
-  "euiFormBorderOpaqueColor": "#112b86",
-  "euiFormBorderColor": "rgba(17, 43, 134, 0.09999999999999998)",
-  "euiFormBorderDisabledColor": "rgba(17, 43, 134, 0.09999999999999998)",
+  "euiFormBorderOpaqueColor": "#134090",
+  "euiFormBorderColor": "rgba(19, 64, 144, 0.09999999999999998)",
+  "euiFormBorderDisabledColor": "rgba(19, 64, 144, 0.09999999999999998)",
   "euiFormCustomControlDisabledIconColor": "#5e646f",
   "euiFormCustomControlBorderColor": "#c9cbcd",
   "euiFormControlDisabledColor": "#98a2b3",
@@ -648,7 +648,7 @@
     "plain": "#ffffff",
     "subdued": "#fafbfd",
     "accent": "#feedf5",
-    "primary": "#e6f1fa",
+    "primary": "#e6f6fc",
     "success": "#e6f9f7",
     "warning": "#fff9e8",
     "danger": "#f8e9e9"
@@ -674,16 +674,17 @@
   "euiScrollBar": "16px",
   "euiScrollBarCorner": "4px",
   "euiScrollBarCornerThin": "6px",
-  "euiFocusRingColor": "#0071c2",
-  "euiFocusRingAnimStartColor": "rgba(0, 119, 204, 0)",
+  "euiFocusRingColor": "#007cab",
+  "euiFocusRingAnimStartColor": "rgba(0, 160, 220, 0)",
   "euiFocusRingAnimStartSize": "2px",
   "euiFocusRingAnimStartSizeLarge": "10px",
   "euiFocusRingSizeLarge": "4px",
   "euiFocusRingSize": "2px",
   "euiFocusTransparency": 0.9,
   "euiFocusTransparencyPercent": "90%",
-  "euiFocusBackgroundColor": "rgba(0, 119, 204, 0.09999999999999998)",
+  "euiFocusBackgroundColor": "rgba(0, 160, 220, 0.09999999999999998)",
   "euiTooltipBackgroundColor": "#404040",
+  "euiTooltipBorderColor": "#595959",
   "euiTooltipAnimations": {
     "top": "euiToolTipTop",
     "left": "euiToolTipBottom",
@@ -770,7 +771,7 @@
   "euiRangeHeight": "40px",
   "euiRangeCompressedHeight": "32px",
   "euiStepStatusColors": {
-    "default": "#0077cc",
+    "default": "#00a0dc",
     "complete": "#00bfb3",
     "warning": "#fec514",
     "danger": "#bd271e"
